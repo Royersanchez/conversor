@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">conversor</string>
+    <string-array name="spnLongitud">
+    <item>Metros</item>
+    <item>Centimetros</item>
+    <item>Pulgadas</item>
+    <item>Pies</item>
+    <item>Varas</item>
+    <item>Yardas</item>
+    <item>Kilometros</item>
+    <item>Millas</item>
+    </string-array>
+    <string-array name="spnAlmacenamiento">
+    <item>bit</item>
+    <item>B</item>
+    <item>kBit</item>
+    <item>KiBit</item>
+    <item>KiB</item>
+    <item>MBit</item>
+    <item>Mib</item>
+    <item>GBit</item>
+    <item>Gib</item>
+    <item>GB</item>
+    <item>GiB</item>
+    <item>TB</item>
+    <item>TiB</item>
+    <item>PB</item>
+    <item>PiB</item>
+    <item>EB</item>
+    <item>EiB</item>
+    <item>ZB</item>
+    <item>ZiB</item>
+    <item>YB</item>
+    <item>YiB</item>
+    </string-array>
+</resources>
